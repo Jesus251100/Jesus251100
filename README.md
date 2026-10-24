@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,34,56,89&height=200&section=header&text=Jesús%20Cancino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full-Stack%20·%20SENA%20ADSO&descSize=18&descAlignY=62" width="100%">
+  <img src="assets/Banner.svg" width="100%">
 </p>
 
 <h1 align="center">Bienvenidos a mi Portafolio</h1>
