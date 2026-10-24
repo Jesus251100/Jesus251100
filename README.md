@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.svg" width="100%">
+  <img src="assets/Banner1.jpg" alt="Banner de Jesús Cancino - Desarrollador Full-Stack" width="100%">
 </p>
 
 <h1 align="center">Bienvenidos a mi Portafolio</h1>
