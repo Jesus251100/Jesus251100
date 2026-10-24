@@ -74,6 +74,8 @@ Estoy en etapa de formación: he desarrollado proyectos como **DarkFantasy** (Fu
 | Medio | Enlace |
 |-------|--------|
 | 💼 GitHub | [github.com/Jesus251100](https://github.com/Jesus251100) |
+| ✉️ Correo | [totolino4000@gmail.com](mailto:totolino4000@gmail.com) |
+| 💬 WhatsApp | [Escríbeme por WhatsApp](https://wa.me/573232152564) |
 
 ---
 
