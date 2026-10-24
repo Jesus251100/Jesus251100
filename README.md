@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,34,56,89&height=200&section=header&text=Jesús%20Cancino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full-Stack%20·%20SENA%20ADSO&descSize=18&descAlignY=62" width="100%">
+</p>
+
 <h1 align="center">Bienvenidos a mi Portafolio</h1>
 <h3 align="center">Desarrollador de software junior · Aprendiz SENA ADSO</h3>
-
-<p align="center">
-  <img alt="Banner de Jesús Cancino: desarrollador de software" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,34,56,89&height=200&section=header&text=Jesús%20Cancino&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
-</p>
 
 <p align="center">
   <a href="https://github.com/Jesus251100?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/Jesus251100?style=for-the-badge&logo=github&label=Seguidores"></a>
