@@ -2,11 +2,7 @@
 <h3 align="center">Desarrollador de software junior · Aprendiz SENA ADSO</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-    <img alt="Banner de Jesus Cancino: desarrollador de software" src="assets/banner.svg" width="100%">
-  </picture>
+  <img alt="Banner de Jesús Cancino: desarrollador de software" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,34,56,89&height=200&section=header&text=Jesús%20Cancino&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +11,7 @@
   <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=Jesus251100&style=for-the-badge&label=Visitas">
 </p>
 
-## Hola, soy Jesus Cancino 👋
+## Hola, soy Jesús Cancino 👋
 
 > 📌 **Aviso:** estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
 
@@ -23,41 +19,38 @@
 
 Soy aprendiz del **Tecnólogo en Análisis y Desarrollo de Software del SENA (Piedecuesta, Santander)**. Me interesa construir aplicaciones web útiles y aprender buenas prácticas: código limpio, control de versiones con Git y trabajo en equipo.
 
-Estoy en etapa de formación: he desarrollado proyectos de clase y personales que puedes ver más abajo. Aprendo todos los días, me gusta recibir retroalimentación y busco una práctica o un primer empleo donde seguir creciendo.
+Estoy en etapa de formación: he desarrollado proyectos como **DarkFantasy** (Full-Stack con Supabase y Docker) que puedes ver más abajo. Aprendo todos los días, me gusta recibir retroalimentación y busco una práctica o un primer empleo donde seguir creciendo profesionalmente.
 
 <details>
 <summary><b>➕ Más sobre mí</b></summary>
 <br>
 
 - 🎓 Estudiando: Tecnólogo en Análisis y Desarrollo de Software (SENA)
-- 🌱 Aprendiendo ahora: React, Node.js, Git
-- 🤝 Pregúntame sobre: HTML, CSS, JavaScript básico
-- 🗣️ Idiomas: Español (nativo) · Inglés (básico/técnico)
+- 🌱 Aprendiendo ahora: Arquitectura de software, bases de datos y desarrollo full-stack
+- 🤝 Pregúntame sobre: Git, GitHub, JavaScript, Supabase y Docker
+- 🗣️ Idiomas: Español (nativo)
 
 </details>
 
 ## 🛠️ Tecnologías y herramientas
 
 <p>
-  <img alt="Tecnologías: JavaScript, React, Node.js, PostgreSQL, Git" src="https://skillicons.dev/icons?i=js,react,nodejs,postgres,git">
+  <img alt="Tecnologías: JavaScript, Git, Supabase, Docker" src="https://skillicons.dev/icons?i=js,git,vscode,supabase,docker">
 </p>
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript, React |
-| ⚙️ **Backend** | Node.js, Express |
-| 🗄️ **Bases de datos** | PostgreSQL, MySQL |
-| 🧰 **Herramientas** | Git, GitHub, VS Code, Figma |
-| 📚 **Aprendiendo** | TypeScript, Docker |
+| ⚙️ **Desarrollo y Editores** | Cursor, JetBrains, VS Code, Warp |
+| 🤖 **IA y Asistencia** | GitHub Copilot, Supermaven |
+| 🗄️ **Bases de datos y Backend** | Supabase, SQL, Docker |
+| 🧰 **Control de versiones** | Git, GitHub |
+| 📚 **Enfoque actual** | Desarrollo Full-Stack |
 
 ## 🗺 Mapa de proyectos
 
-### 🌐 Aplicaciones web
-- **Proyecto Uno** — Tienda en línea de ejemplo con carrito de compras. [Repo](https://github.com/Jesus251100/proyecto-uno)
-- **Proyecto Dos** — Gestor de tareas con login y base de datos. [Repo](https://github.com/Jesus251100/proyecto-dos)
-
-### 🎨 Frontend y diseño
-- **Mi Portafolio** — Sitio personal responsive. [Repo](https://github.com/Jesus251100/Jesus251100.github.io)
+### 🌐 Aplicaciones Full-Stack
+- **DarkFantasy Back-End** — API y lógica de servidor conectada a base de datos en Supabase. [Repo](https://github.com/Jesus251100/DarkFantasy_BackEnd)
+- **DarkFantasy Front-End** — Interfaz de usuario interactiva integrada con el backend y desplegada localmente mediante Docker. [Repo](https://github.com/Jesus251100/DarkFantasy_FrontEnd)
 
 ## 📊 Actividad y estadísticas
 
@@ -73,18 +66,18 @@ Estoy en etapa de formación: he desarrollado proyectos de clase y personales qu
 
 | Repositorio | Descripción | Tecnologías |
 |-------------|-------------|-------------|
-| [proyecto-uno](https://github.com/Jesus251100/proyecto-uno) | Tienda en línea de ejemplo | HTML, CSS, JS |
-| [proyecto-dos](https://github.com/Jesus251100/proyecto-dos) | Gestor de tareas con login | Node.js, PostgreSQL |
+| [DarkFantasy_BackEnd](https://github.com/Jesus251100/DarkFantasy_BackEnd) | Backend del proyecto DarkFantasy | Node.js / Supabase |
+| [DarkFantasy_FrontEnd](https://github.com/Jesus251100/DarkFantasy_FrontEnd) | Frontend del proyecto DarkFantasy | JavaScript / Docker |
 
 ## 📫 Contáctame
 
 | Medio | Enlace |
 |-------|--------|
-| ✉️ Correo | [totolino4000@gmail.com](mailto:totolino4000@gmail.com) |
-| 🐙 GitHub | [github.com/Jesus251100](https://github.com/Jesus251100) |
+| 💼 GitHub | [github.com/Jesus251100](https://github.com/Jesus251100) |
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 💚
+  Gracias por visitar mi perfil 💚<br>
+  <sub>Desarrollado con dedicación desde Piedecuesta, Santander.</sub>
 </p>
